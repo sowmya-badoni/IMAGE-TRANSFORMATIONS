@@ -1,6 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-**Name** - Ashwina K N  
-**Register Number** - 212223230025
+**Name** - SOWMYA BADONI
+**Register Number** - 212223230211
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
